@@ -162,5 +162,5 @@ async def on_message(message):
                   await message.author.send("waiting for more players")
             for player in numReactions:
               await message.player.send("You are: " + randlistofRoles)
-client.run('ODIxMTEyOTQ4OTUyMDA2Njk2.YE-_Bg.63Am1N-gAgr_bgqper3uXLKHwCg')
+client.run('TOKEN')
 
